@@ -23,8 +23,9 @@ email: pauamargant@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   En aquest blog s'hi poden trobar petits escrits, projectes i en general qualsevol
   cosa que em vingui de gust compartir.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: the subpath of your site, e.g. /blog
+url: https://pauamargant.github.io
+domain: pauamargant.github.io
 show_excerpts: true
 github_username:  pauamargant
 

@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Aquest és el meu blog
+
+EN CONSTRUCCIÓ
